@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mhaseeb01/Project2",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.2",
     "chai": "^3.5.0",
     "cookie-parser": "^1.4.3",
